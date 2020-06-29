@@ -1,6 +1,6 @@
 # Netflix Clone
 
-Made a Netflix clone website to practice CSS components (grid, flexbox, positioning, table, hide/show, z-index, box-shadow instet etc...) and mobile responsiveness.
+Made a Netflix clone website to practice CSS components (grid, flexbox, positioning, table, hide/show, z-index, box-shadow inset etc...) and mobile responsiveness.
 
 # Demo
 
@@ -9,8 +9,8 @@ Made a Netflix clone website to practice CSS components (grid, flexbox, position
 
 # Technologies Used
 
-HTML
-Plain CSS
+HTML,
+Plain CSS,
 Vanilla JS
 
 # Problems
